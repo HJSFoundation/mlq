@@ -1,5 +1,5 @@
-# mlq
-The Meaning in Life Questionnaire (MLQ) Calculator
+# What is the meaning of life?
+The meaning of life, or the answer to the question "What is the meaning of life?", pertains to the significance of living or existence in general. The meaning of life as we perceive it is derived from philosophical and religious contemplation of, and scientific inquiries about existence, social ties, consciousness, and happiness. Positive psychology focuses on empirical factors that lead to life satisfaction, full engagement in activities, making a fuller contribution by utilizing one's personal strengths, and meaning based on investing in something larger than the self.
 
-## ABOUT
+# Meaning in Life Questionaire
 The Meaning in Life Questionnaire (MLQ) is a 10-item self-report inventory designed to measure perceived life meaning and search for meaning (Steger, Frazier, Oishi, & Kaler, 2006). Respondents rate their degree of agreement on a 7-point scale, ranging from 1 (absolutely untrue)to 7 (absolutely true). The original code was developed by https://github.com/kevgrig
