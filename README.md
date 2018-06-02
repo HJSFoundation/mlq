@@ -1,11 +1,5 @@
-# mlq-react
-The Meaning in Life Questionnaire (MLQ) Calculator: https://kevgrig.github.io/mlq-react/
+# mlq-inventory
+The Meaning in Life Questionnaire (MLQ) Calculator
 
-## Development
-
-* Main code at https://github.com/kevgrig/mlq-react/blob/master/src/App.js
-* Built with https://github.com/facebookincubator/create-react-app (see also https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
-  * sudo npm install -g create-react-app
-  * sudo npm install --save-dev gh-pages
-* npm start # Local site at http://localhost:3000/
-* npm run deploy # Deploy production build to https://kevgrig.github.io/mlq-react/
+## ABOUT
+The Meaning in Life Questionnaire (MLQ) is a 10-item self-report inventory designed to measure perceived life meaning and search for meaning (Steger, Frazier, Oishi, & Kaler, 2006). Respondents rate their degree of agreement on a 7-point scale, ranging from 1 (absolutely untrue)to 7 (absolutely true). The original code was developed by 
