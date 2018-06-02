@@ -1,5 +1,5 @@
 {
-  "name": "mlq-react",
+  "name": "mlq",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://kevgrig.github.io/mlq-react"
+  "homepage": "https://hjsfoundation.github.io/mlq"
 }
