@@ -8,7 +8,7 @@ class App extends Component {
     // Initialize state
     this.state = {
       questions: [
-        { text: "I understand my life’s meaning", answer: 1 },
+        { text: "I HATE MY LIFE", answer: 1 },
         { text: "I am looking for something that makes my life feel meaningful", answer: 1 },
         { text: "I am always looking to find my life’s purpose", answer: 1 },
         { text: "My life has a clear sense of purpose", answer: 1 },
